@@ -24,6 +24,15 @@ The app should run on any web browser on any device. When the Generate Password 
 ## Usage
 
 When the Generate Password button is selected a prompt for password criteria shows up allowing the user to select the length of the password and character types, and then upon all prompts being filled out a password is generated that meets those criteria.
+<img width="1512" alt="Screenshot 2024-06-10 at 8 53 03 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/433efa15-6b59-432a-a116-340f9a47eab8">
+<img width="1512" alt="Screenshot 2024-06-10 at 8 53 33 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/e227d52f-4b9d-42c7-a550-ac1b5ad40e2c">
+<img width="1512" alt="Screenshot 2024-06-10 at 8 53 40 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/37880ef0-5652-4a47-b5b3-3d1999706a21">
+<img width="1512" alt="Screenshot 2024-06-10 at 8 53 45 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/9406b73e-38a5-459e-83f0-f9c3f4da9ecb">
+<img width="1512" alt="Screenshot 2024-06-10 at 8 53 51 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/b1ee895a-e681-4f3f-b9d5-c2d828b9d6de">
+<img width="1512" alt="Screenshot 2024-06-10 at 8 53 56 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/0af209c9-8dd9-4949-a2d2-ab463d48455e">
+<img width="1512" alt="Screenshot 2024-06-10 at 8 54 05 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/b00a7093-456f-4ed2-b940-93fc4cbadf47">
+<img width="1512" alt="Screenshot 2024-06-10 at 8 54 20 PM" src="https://github.com/Rthornburg-Ardi/Challenge3/assets/153576008/be94bb80-2c39-46a0-b935-b5b25c947f44">
+
 
 
 ## Credits
